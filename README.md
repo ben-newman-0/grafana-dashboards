@@ -4,6 +4,8 @@
 
 This repository contains exports of Grafana dashboards I've created.
 
+**These dashboards are more for reference than actual use**, as they are configured to work with the specific setups that I am using.
+
 ## Usage
 
 ### Importing
