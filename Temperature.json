@@ -318,7 +318,7 @@
               "value": 18
             },
             {
-              "color": "#EAB839",
+              "color": "yellow",
               "index": 3,
               "value": 21
             },
@@ -568,5 +568,5 @@
   "timezone": "",
   "title": "Temperature",
   "uid": "zEi3xYiRz",
-  "version": 11
+  "version": 12
 }
