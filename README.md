@@ -24,7 +24,7 @@ If the dashboard already exists in the repository and is being updated: overwrit
 
 ## Dashboard Overviews
 
-### Temperature (`Temperature.json`)
+### Temperature *[[Temperature.json](Temperature.json)]*
 
 The Temperature dashboard shows details of temperatures measured from different sensors. The data is queried from an Influx database.
 
