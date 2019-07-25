@@ -16,7 +16,7 @@ The JSON files in this repository can be imported into a Grafana instance by usi
 
 ### Exporting
 
-Use Grafana's [Export](https://grafana.com/docs/reference/export_import/#exporting-a-dashboard) function. When exporting enable the `Export for sharing externally` option and choose `Save to file`. Avoid exporting and copying to the clipboard, as some editors will re-format the file. Rename the exported file to the name of the dashboard.
+Use Grafana's [Export](https://grafana.com/docs/reference/export_import/#exporting-a-dashboard) function to create JSON exports of dashboards. When exporting enable the `Export for sharing externally` option and choose `Save to file`. Avoid exporting and copying to the clipboard, as some editors will re-format the file. Rename the exported file to the name of the dashboard.
 
 If the dashboard is new to the repository: add the file to the repository, update this readme with the dashboard and commit.
 
